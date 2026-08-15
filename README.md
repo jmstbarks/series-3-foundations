@@ -2,6 +2,8 @@
 
 [![Deploy Series 3 Foundations to GitHub Pages](https://github.com/jmstbarks/series-3-foundations/actions/workflows/pages.yml/badge.svg)](https://github.com/jmstbarks/series-3-foundations/actions/workflows/pages.yml)
 
+**Live course:** [jmstbarks.github.io/series-3-foundations](https://jmstbarks.github.io/series-3-foundations/)
+
 Open [`index.html`](./index.html) in a browser, or run:
 
 ```sh
