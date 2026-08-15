@@ -1,0 +1,11 @@
+{
+  "name": "series-3-foundations",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "verify": "node scripts/verify.mjs",
+    "test:simulation": "node simulation/tests/model.test.mjs",
+    "check": "npm run build && npm run verify && npm run test:simulation"
+  }
+}
